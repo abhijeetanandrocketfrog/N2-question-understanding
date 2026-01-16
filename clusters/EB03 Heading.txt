@@ -1,0 +1,118 @@
+1. PHYSICIAN
+    1.1 General Physician Professional 
+    1.2 Physician Office Visits
+    1.3 Physician Facility Visits
+    1.4 Physician Extended-Care Visits
+    1.5 Surgical Physician Roles
+
+2. HOSPITAL & FACILITY
+    2.1 Generic Hospital Facility
+    2.2 Inpatient Hospital Services
+    2.3 Outpatient & Same-Day Surgical Facilities
+    2.4 Emergency Hospital Facilities
+    2.5 Intensive & Critical Care Units
+
+
+3. EMERGENCY & TIME-SENSITIVE CARE
+    3.1 Emergency Services
+    3.2 Urgent Care
+
+4. DIAGNOSTIC & TESTING
+    4.1 Radiology & Imaging
+    4.2 Laboratory & Pathology
+    4.3 Preventive / Risk-Based Imaging
+    4.4 Sensory Diagnostics
+    4.5 Allergy Testing
+
+5. SURGICAL & PROCEDURAL CARE
+    5.1 General Surgical Procedures
+    5.2 Facility-Side Surgical Charges
+    5.3 Invasive / Special Procedures
+    5.4 Anesthesia Services
+
+6. THERAPY & REHABILITATION
+    6.1 Physical & Functional Therapy
+    6.2 Rehabilitation - Facility Based
+    6.3 Cardio-Pulmonary Rehabilitation
+    6.4 Other Therapeutic Services
+
+7. MENTAL HEALTH & SUBSTANCE USE
+    7.1 Mental Health Services
+    7.2 Psychiatric Facility Levels
+    7.3 Structured Psychiatric Programs
+    7.4 Substance Use Disorders
+    7.5 Substance Abuse Facilities
+
+8. PHARMACY & DRUG DELIVERY
+    8.1 Pharmacy
+    8.2 Retail Prescription Drugs
+    8.3 Mail Order Prescription Drugs
+    8.4 Formulary Status
+    8.5 Specialty Drug Therapy
+
+9. DEVICES, EQUIPMENT & SUPPLIES
+    9.1 Durable Medical Equipment (Reusable / Facility or Home Equipment)
+    9.2 Medical Supplies (Consumable / Disposable)
+
+10. RENAL & DIALYSIS
+    10.1 Dialysis Services
+    10.2 Chronic Renal Disease (CRD) Equipment
+    10.3 Renal
+
+11. HOME, NURSING & LONG-TERM CARE
+    11.1 Home Health Services
+    11.2 Skilled & Private Nursing
+    11.3 Hospice & Respite
+    11.4 Long Term Care
+
+12. PREVENTIVE & IMMUNIZATION
+    12.1 Routine Preventive Care
+    12.2 Vaccinations
+    12.3 Smoking Cessation
+
+13. DENTAL
+    13.1 General Dental
+    13.2 Dental Procedures
+    13.3 Dental Special Coverage
+    13.4 Routine (Preventive) Dental
+
+14. VISION & EYE CARE
+    14.1 Vision Exams
+    14.2 Eyewear
+    14.3 Eye Care
+
+15. WOMEN’S, MATERNITY & PEDIATRIC CARE
+    15.1 Obstetric & Gynecologic Care
+    15.2 Maternity & Newborn
+    15.3 Reproductive Health
+    15.4 Pediatric Care
+
+16. ONCOLOGY & SERIOUS DISEASE
+    16.1 Cancer Care
+    16.2 Radiation & Transplant
+
+17. ORGAN / SYSTEM-BASED TAGS
+    17.1 Cardiopulmonary Systems
+    17.2 Neuromusculoskeletal Systems
+    17.3 Metabolic & Endocrine Systems
+    17.4 Digestive System
+    17.5 Integumentary System
+    17.6 Lymphatic & Immune System
+
+18. GENERAL MEDICAL CARE
+19. CONSULTATION SERVICES
+20. PRE-ADMISSION SERVICES
+21. SOCIAL & SUPPORT SERVICES
+22. CHIROPRACTIC SERVICES
+23. RESPIRATORY THERAPIES
+24. PODIATRY SERVICES
+25. TRANSITIONAL & POST-ACUTE CARE
+26. Plan Coverage & Eligibility Concepts
+27. Plan Waiting & Effective Periods
+28. General Benefit Classifications
+29. Care Coordination & Management
+30. Blood & Biological Charges
+31. Medical Transportation Services
+32. Non-Covered / Excluded Services
+33. Complementary & Alternative Medicine
+34. Specific Disease-State Services

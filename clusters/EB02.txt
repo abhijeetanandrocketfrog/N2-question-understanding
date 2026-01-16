@@ -1,0 +1,14 @@
+1. SUBSCRIBER-BASED COVERAGE
+    Individual
+    Individual Only
+    Individual and Children
+    Individual and Spouse
+
+2. FAMILY/DEPENDENT-BASED COVERAGE
+    Family
+    Children Only
+    Individual and Children
+    Individual and Spouse
+    Spouse and Children
+    Spouse Only
+    Dependents Only

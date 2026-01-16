@@ -1,0 +1,385 @@
+1. PHYSICIAN
+
+1.1 General Physician Professional 
+	Professional (Physician)
+	Surgical Benefits - Professional (Physician)
+	Independent Medical Evaluation
+
+1.2 Physician Office Visits
+	Professional (Physician) Visit - Office
+	Physician Visit - Office: Sick
+	Physician Visit - Office: Well
+
+1.3 Physician Facility Visits
+	Professional (Physician) Visit - Inpatient
+	Professional (Physician) Visit - Outpatient
+
+1.4 Physician Extended-Care Visits
+	Professional (Physician) Visit - Nursing Home
+	Professional (Physician) Visit - Skilled Nursing Facility
+	Professional (Physician) Visit - Home
+
+1.5 Surgical Physician Roles
+	Anesthesiologist
+	Surgical Assistance
+
+2. HOSPITAL & FACILITY
+
+2.1 Generic Hospital Facility
+	Hospital
+
+2.2 Inpatient Hospital Services
+	Hospital - Inpatient
+	Hospital - Room and Board
+
+2.3 Outpatient & Same-Day Surgical Facilities
+	Hospital - Outpatient
+	Hospital - Ambulatory Surgical
+	Ambulatory Service Center Facility
+
+2.4 Emergency Hospital Facilities
+	Hospital - Emergency Medical
+	Hospital - Emergency Accident
+
+2.5 Intensive & Critical Care Units
+	Intensive Care
+	Coronary Care
+	Neonatal Intensive Care
+
+3. EMERGENCY / IMMEDIATE & TIME-SENSITIVE CARE
+	Emergency Services
+	Urgent Care
+
+4. DIAGNOSTIC & TESTING
+
+4.1 Radiology & Imaging
+	Diagnostic X-Ray
+	Screening X-ray
+	MRI/CAT Scan
+
+4.2 Laboratory & Pathology
+	Diagnostic Lab
+	Screening laboratory
+	Pathology
+
+4.3 Preventive / Risk-Based Imaging
+	Mammogram - High Risk
+	Mammogram - Low Risk
+	Mammogram, High Risk Patient
+	Mammogram, Low Risk Patient
+
+4.4 Sensory Diagnostics
+	Audiology Exam
+	Otological Exam
+
+4.5 Allergy Testing
+	Allergy Testing
+
+5. SURGICAL & PROCEDURAL CARE
+
+5.1 General Surgical Procedures
+	Surgical
+	Second Surgical Opinion
+	Third Surgical Opinion
+
+5.2 Facility-Side Surgical Charges
+	Surgical Benefits - Facility
+
+5.3 Invasive / Special Procedures
+	Invasive Procedures
+	Burn Care
+	Donor Procedures
+
+5.4 Anesthesia Services
+	Anesthesia
+	Anesthesiologist
+
+6. THERAPY & REHABILITATION
+
+6.1 Physical & Functional Therapy
+	Physical Therapy
+	Occupational Therapy
+	Speech Therapy
+
+6.2 Rehabilitation - Facility Based
+	Rehabilitation
+	Rehabilitation - Inpatient
+	Rehabilitation - Outpatient
+	Rehabilitation - Room and Board
+
+6.3 Cardio-Pulmonary Rehabilitation
+	Cardiac Rehabilitation
+	Pulmonary Rehabilitation
+
+6.4 Other Therapeutic Services
+	Physical Medicine
+	Massage Therapy
+	Cognitive Therapy
+
+7. MENTAL HEALTH & SUBSTANCE USE
+
+7.1 Mental Health Services
+	Mental Health
+	Mental Health Provider - Inpatient
+	Mental Health Provider - Outpatient
+	Mental Health Facility - Inpatient
+	Mental Health Facility - Outpatient
+	Psychiatric
+	Psychotherapy
+
+7.2 Psychiatric Facility Levels
+	Psychiatric - Inpatient
+	Psychiatric - Outpatient
+	Psychiatric - Room and Board
+
+7.3 Structured Psychiatric Programs
+	Partial Hospitalization (Psychiatric)
+	Day Care (Psychiatric)
+	Residential Psychiatric Treatment
+
+7.4 Substance Use Disorders
+	Substance Abuse
+	Alcoholism
+	Drug Addiction
+
+7.5 Substance Abuse Facilities
+	Substance Abuse Facility - Inpatient
+	Substance Abuse Facility - Outpatient
+
+8. PHARMACY & DRUG DELIVERY
+
+8.1 Pharmacy
+	Pharmacy
+
+8.2 Retail Prescription Drugs
+	Free Standing Prescription Drug
+	Brand Name Prescription Drug
+	Generic Prescription Drug
+
+8.3 Mail Order Prescription Drugs
+	Mail Order Prescription Drug
+	Mail Order Prescription Drug: Brand Name
+	Mail Order Prescription Drug: Generic
+
+8.4 Formulary Status
+	Brand Name Prescription Drug - Formulary
+	Brand Name Prescription Drug - Non-Formulary
+	Generic Prescription Drug - Formulary
+	Generic Prescription Drug - Non-Formulary
+
+8.5 Specialty Drug Therapy
+	Chemotherapy
+	Experimental Drug Therapy
+
+9. DEVICES, EQUIPMENT & SUPPLIES
+
+9.1 Durable Medical Equipment (Reusable / Facility or Home Equipment)
+    Durable Medical Equipment
+    Durable Medical Equipment Purchase
+    Durable Medical Equipment Rental
+    Used Durable Medical Equipment
+	Prosthetic Device    
+
+9.2 Medical Supplies (Consumable / Disposable)
+    Diabetic Supplies
+    Renal Supplies in the Home
+
+10. RENAL & DIALYSIS
+
+10.1 Dialysis Services
+	Dialysis
+	Alternate Method Dialysis
+
+10.2 Chronic Renal Disease (CRD) Equipment
+	Chronic Renal Disease (CRD) Equipment
+
+10.3 Renal 
+	Renal
+
+11. HOME, NURSING & LONG-TERM CARE
+
+11.1 Home Health Services
+	Home Health Care
+	Home Health Visits
+	Home Health Prescriptions
+
+11.2 Skilled & Private Nursing
+	Skilled Nursing Care
+	Skilled Nursing Care - Room and Board
+	Private Duty Nursing
+	Private Duty Nursing - Inpatient
+	Private Duty Nursing - Home
+
+11.3 Hospice & Respite
+	Hospice
+	Respite Care
+
+11.4 Long Term Care
+	Long Term Care
+
+12. PREVENTIVE & IMMUNIZATION
+
+12.1 Routine Preventive Care
+	Routine Physical
+	Well Baby Care
+
+12.2 Vaccinations
+	Immunizations
+	Flu Vaccination
+	Pneumonia Vaccine
+
+12.3 Smoking Cessation
+	Smoking Cessation
+
+13. DENTAL
+
+13.1 General Dental
+	Dental Care
+	Diagnostic Dental
+
+13.2 Dental Procedures
+	Periodontics
+	Restorative
+	Endodontics
+	Prosthodontics
+	Oral Surgery
+
+13.3 Dental Special Coverage
+	Dental Crowns
+	Orthodontics
+	Dental Accident
+	Maxillofacial Prosthetics
+	Adjunctive Dental Services
+
+13.4 Routine (Preventive) Dental
+
+14. VISION & EYE CARE
+
+14.1 Vision Exams
+	Vision (Optometry)
+	Routine Exam (Use for Routine Vision Exam only)
+
+14.2 Eyewear
+	Frames
+	Lenses
+	Eyewear and Eyewear Accessories
+
+14.3 Eye Care
+	Eye
+
+15. WOMEN’S, MATERNITY & PEDIATRIC CARE
+
+15.1 Obstetric & Gynecologic Care
+	Obstetrical
+	Gynecological
+	Obstetrical/Gynecological
+
+
+15.2 Maternity & Newborn
+	Maternity
+	Newborn Care
+	Nursery
+	Transitional Nursery Care
+
+15.3 Reproductive Health
+	Family Planning
+	Infertility
+	In-vitro Fertilization
+	Abortion
+
+15.4 Pediatric Care
+	Pediatric
+
+16. ONCOLOGY & SERIOUS DISEASE
+
+16.1 Cancer Care
+	Cancer
+	Oncology
+
+16.2 Radiation & Transplant
+	Radiation Therapy
+	Transplants
+
+17. ORGAN / SYSTEM-BASED TAGS
+
+17.1 Cardiopulmonary Systems
+	Cardiac
+	Pulmonary
+
+17.2 Neuromusculoskeletal Systems
+	Neurology
+	Orthopedic
+
+17.3 Metabolic & Endocrine Systems
+	Endocrine
+
+17.4 Digestive System
+	Gastrointestinal
+
+17.5 Integumentary System
+	Dermatology
+	Skin
+
+17.6 Lymphatic & Immune System
+	Lymphatic
+	Allergy
+
+18. GENERAL MEDICAL CARE
+    Medical Care
+    Other Medical
+    Major Medical
+    Diagnostic Medical
+
+19. CONSULTATION SERVICES
+    Consultation
+
+20. PRE-ADMISSION SERVICES
+    Pre-Admission Testing
+
+21. SOCIAL & SUPPORT SERVICES
+    Social Work
+
+22. CHIROPRACTIC SERVICES
+    Chiropractic
+    Chiropractic Office Visits
+
+23. RESPIRATORY THERAPIES
+    Inhalation Therapy
+
+24. PODIATRY SERVICES
+    Podiatry
+    Podiatry - Office Visits
+    Podiatry - Nursing Home Visits
+
+25. TRANSITIONAL & POST-ACUTE CARE
+    Transitional Care
+
+26. Health Plan Coverage & Eligibility Concepts
+	Health Benefit Plan Coverage
+
+27. Plan Waiting & Effective Periods
+	Plan Waiting Period
+
+28. General Benefit Classifications
+	General Benefits
+
+29. Care Coordination & Management
+	Case Management
+
+30. Blood & Biological Charges
+	Blood Charges
+
+31. Medical Transportation Services
+	Medically Related Transportation
+	Air Transportation
+	Cabulance
+	Licensed Ambulance
+
+32. Non-Covered / Excluded Services
+	Nonmedically Necessary Physical
+
+33. Complementary & Alternative Medicine
+	Acupuncture
+
+34. Specific Disease-State Services
+	AIDS

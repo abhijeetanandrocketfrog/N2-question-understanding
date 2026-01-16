@@ -1,0 +1,1421 @@
+
+--------------------------------------------------------------------------------
+Question:  Are chiropractic adjustments considered a covered service for me?
+Query ID: 2025-12-17-31548
+Response Time: 9.9087975025177
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "me", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "chiropractic adjustments", "cluster": ["22"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Is this covered chiropractor service in my insurance network?
+Query ID: 2025-12-17-31549
+Response Time: 10.765743017196655
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "chiropractor service", "cluster": ["22"] }
+    ],
+    "EB12": [
+      { "text": "insurance network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Is there a copayment required when I get a spinal adjustment service by a chiropractor who is in my plan network?
+Query ID: 2025-12-17-31550
+Response Time: 15.977880477905273
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copayment", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "i", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "spinal adjustment service", "cluster": ["22"] },
+      { "text": "chiropractor", "cluster": ["22"] }
+    ],
+    "EB12": [
+      { "text": "plan network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Is there a separate copay for an X-ray done at the chiropractor’s office if the chiropractor is in my plan’s network?
+Query ID: 2025-12-17-31551
+Response Time: 15.818612575531006
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copay", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "x-ray", "cluster": ["4.1"] },
+      { "text": "plan", "cluster": ["26"] }
+    ],
+    "EB12": [
+      { "text": "network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": ["chiropractor's office"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What about co-insurance for spinal adjustment by a chiropractor who is in my plan network?
+Query ID: 2025-12-17-31552
+Response Time: 17.365375518798828
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "co-insurance", "canonical_term": "Co-Insurance" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "spinal adjustment", "cluster": ["6.1"] }
+    ],
+    "EB12": [
+      { "text": "in my plan network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Do I owe anything toward my deductible if the provider is in network?
+Query ID: 2025-12-17-31553
+Response Time: 9.816837787628174
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB12": [
+      { "text": "in network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Are my routine gynecology checkups covered by my insurance?
+Query ID: 2025-12-17-31554
+Response Time: 13.418501138687134
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "routine gynecology checkups", "cluster": ["15.1"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Will I have to pay a copay when I see an in-network gynecologist?
+Query ID: 2025-12-17-31555
+Response Time: 13.791775465011597
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copay", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "i", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "gynecologist", "cluster": ["15.1"] }
+    ],
+    "EB12": [
+      { "text": "in-network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  How much coinsurance will I have to pay for an in-network gynecology visit?
+Query ID: 2025-12-17-31556
+Response Time: 13.561740636825562
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "coinsurance", "canonical_term": "Co-Insurance" }
+    ],
+    "EB02": [
+      { "text": "i", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "gynecology visit", "cluster": ["15.1"] }
+    ],
+    "EB12": [
+      { "text": "in-network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What is my out-of-pocket maximum for in-network care?
+Query ID: 2025-12-17-31557
+Response Time: 10.499008893966675
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB12"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "out-of-pocket maximum",
+        "canonical_term": "Limitations & Out of Pocket Limit/Maximum"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "my",
+        "cluster": "1"
+      }
+    ],
+    "EB12": [
+      {
+        "text": "in-network care",
+        "canonical_term": "In-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What is my plan deductible for services from in-network providers?
+Query ID: 2025-12-17-31558
+Response Time: 7.609147071838379
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "plan", "cluster": ["26"] }
+    ],
+    "EB12": [
+      { "text": "in-network providers", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I need immediate treatment at a facility for a sprain, is that covered under my plan?
+Query ID: 2025-12-17-31559
+Response Time: 13.760861873626709
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      {
+        "text": "immediate treatment at a facility",
+        "cluster": ["3"]
+      },
+      {
+        "text": "plan",
+        "cluster": ["26"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": ["sprain"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What will my co-insuracne percentage for immediate treatment at in-network facilities?
+Query ID: 2025-12-17-31560
+Response Time: 12.065612554550171
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "co‑insurance", "canonical_term": "Co-Insurance" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "immediate treatment", "cluster": ["3"] }
+    ],
+    "EB12": [
+      { "text": "in-network facilities", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What will my co-insuracne percentage for immediate treatment at out-of-network facilities?
+Query ID: 2025-12-17-31561
+Response Time: 13.799738883972168
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "co-insurance",
+        "canonical_term": "Co-Insurance"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "my",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "immediate treatment",
+        "cluster": ["3"]
+      }
+    ],
+    "EB12": [
+      {
+        "text": "out-of-network facilities",
+        "canonical_term": "Out-Of-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Is there a deductible I need to meet before the coinsurance part for my immediate treatment at in-network facility?
+Query ID: 2025-12-17-31562
+Response Time: 13.16187572479248
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" },
+      { "text": "coinsurance", "canonical_term": "Co-Insurance" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "immediate treatment", "cluster": ["3"] }
+    ],
+    "EB12": [
+      { "text": "in-network facility", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I have to get admitted to hospital is that part of my plan?
+Query ID: 2025-12-17-31563
+Response Time: 17.174041986465454
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB03"],
+  "phrases": {
+    "EB02": [
+      {
+        "text": "i",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "admitted to hospital",
+        "cluster": ["2.2"]
+      },
+      {
+        "text": "hospital",
+        "cluster": ["2.1"]
+      },
+      {
+        "text": "my plan",
+        "cluster": ["26"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What’s my ER copay if I rush in for a major asthma episode at an in-network facilities?
+Query ID: 2025-12-17-31564
+Response Time: 11.157317638397217
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copay", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      {
+        "text": "er",
+        "cluster": ["3", "2.4"]
+      }
+    ],
+    "EB12": [
+      { "text": "in-network facilities", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": [
+    "asthma episode"
+  ]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What’s my ER copay if I rush in for a major asthma episode at an out-of-network facilities?
+Query ID: 2025-12-17-31565
+Response Time: 11.195686101913452
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copay", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      {
+        "text": "emergency room",
+        "cluster": ["3", "2.4"]
+      }
+    ],
+    "EB12": [
+      { "text": "out-of-network facilities", "canonical_term": "Out-Of-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": ["major asthma episode"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Will I owe any copay for ER at in-network facilities even if i got addmitted at in-network facilities
+Query ID: 2025-12-17-31566
+Response Time: 13.752501249313354
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "copay", "canonical_term": "Co-Payment" }
+    ],
+    "EB02": [
+      { "text": "i", "cluster": "1" }
+    ],
+    "EB03": [
+      {
+        "text": "emergency room",
+        "cluster": ["3", "2.4"]
+      }
+    ],
+    "EB12": [
+      { "text": "in-network facilities", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Have I maxed out my out-of-pocket costs for in-plan-network facilities?”
+Query ID: 2025-12-17-31567
+Response Time: 18.854841947555542
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB06", "EB12"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "maxed out",
+        "canonical_term": ""
+      }
+    ],
+    "EB02": [
+      {
+        "text": "my",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "facilities",
+        "cluster": ["2.1"]
+      }
+    ],
+    "EB06": [
+      {
+        "text": "maxed out",
+        "cluster": "5"
+      }
+    ],
+    "EB12": [
+      {
+        "text": "in-plan-network",
+        "canonical_term": "In-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Does my plan treat outpatient hospital services as covered if I choose an in-network facility?
+Query ID: 2025-12-17-31568
+Response Time: 14.727874279022217
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "outpatient hospital services", "cluster": ["2.3"] },
+      { "text": "plan", "cluster": ["26"] }
+    ],
+    "EB12": [
+      { "text": "in-network facility", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Do I need approval for an in-network hospital Outpatient service ?
+Query ID: 2025-12-17-31569
+Response Time: 16.649613857269287
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB02": [
+      { "text": "i", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "hospital outpatient service", "cluster": ["2.3"] }
+    ],
+    "EB12": [
+      { "text": "in-network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": ["approval"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If my family member gets an outpatient hospital procedure at an in-network facility, what coinsurance do I have to absorb once i have met my deductible?
+Query ID: 2025-12-17-31570
+Response Time: 14.875298023223877
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "coinsurance", "canonical_term": "Co-Insurance" },
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "family member", "cluster": "2" }
+    ],
+    "EB03": [
+      { "text": "outpatient hospital procedure", "cluster": ["2.3"] }
+    ],
+    "EB12": [
+      { "text": "in-network facility", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What about outpatient service for my wife at out-of network hospital?
+Query ID: 2025-12-17-31571
+Response Time: 14.598961353302002
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB02": [
+      {
+        "text": "wife",
+        "cluster": "2"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "outpatient service",
+        "cluster": ["2.3"]
+      },
+      {
+        "text": "hospital",
+        "cluster": ["2.1"]
+      }
+    ],
+    "EB12": [
+      {
+        "text": "out-of network hospital",
+        "canonical_term": "Out-Of-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Before my family’s coverage actually starts paying for anything in-network, what fixed deductible amount do we have to shoulder for the year?
+Query ID: 2025-12-17-31573
+Response Time: 23.482101917266846
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB06", "EB12"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "family's coverage", "cluster": "2" }
+    ],
+    "EB06": [
+      { "text": "year", "cluster": "2" }
+    ],
+    "EB12": [
+      { "text": "in-network", "canonical_term": "In-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m an individual on this plan, and my doctor said I may need genetic testing. Whether I see my PCP or a specialist, will I have to meet any deductible?
+Query ID: 2025-12-17-31574
+Response Time: 11.102607488632202
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "deductible",
+        "canonical_term": "Deductible"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "individual",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "genetic testing",
+        "cluster": ["4.2"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m confused because different doctors are involved. If my PCP orders genetic testing one day and a specialist orders another type later, does the deductible stay the same?
+Query ID: 2025-12-17-31576
+Response Time: 14.107797622680664
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "genetic testing", "cluster": ["4.2"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What if the emergency team has to transport me between facilities—does that transportation have any coinsurance as well?
+Query ID: 2025-12-17-31577
+Response Time: 13.902739763259888
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "coinsurance", "canonical_term": "Co-Insurance" }
+    ],
+    "EB02": [
+      { "text": "me", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "transportation", "cluster": ["31"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m a bit nervous, iif my doctor says I need a new prosthetic, is that something my insurance still recognizes as a covered benefit?
+Query ID: 2025-12-17-31579
+Response Time: 23.300727367401123
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "covered", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "new prosthetic", "cluster": ["9.1"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I go to a provider outside the network for a hearing aid, does my plan still help at all?
+Query ID: 2025-12-17-31581
+Response Time: 18.000161170959473
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB03", "EB12"],
+  "phrases": {
+    "EB03": [
+      {
+        "text": "hearing aid",
+        "cluster": ["9.1"]
+      },
+      {
+        "text": "plan",
+        "cluster": ["26"]
+      }
+    ],
+    "EB12": [
+      {
+        "text": "outside the network",
+        "canonical_term": "Out-Of-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  My child’s doctor indicated that we may need to purchase a breathing-support medical device. What level of coinsurance should I anticipate?
+Query ID: 2025-12-17-31583
+Response Time: 15.100278854370117
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "coinsurance",
+        "canonical_term": "Co-Insurance"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "child",
+        "cluster": "2"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "breathing-support medical device",
+        "cluster": ["9.1"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m honestly scared. If a family member needs surgery in the hospital, What coinsurance % may kick in?
+Query ID: 2025-12-17-31584
+Response Time: 15.168139219284058
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03", "EB06"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "coinsurance %",
+        "canonical_term": "Co-Insurance"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "family member",
+        "cluster": "2"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "surgery in the hospital",
+        "cluster": ["5.2", "2.2"]
+      }
+    ],
+    "EB06": [
+      {
+        "text": "may kick in",
+        "cluster": "5"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m worried about how much each speech therapy visit will cost. I know I’ll be billed a lot for every session. How much relief can I expect once coinsurance kicks in?
+Query ID: 2025-12-17-31586
+Response Time: 15.207957029342651
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB03", "EB06"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "coinsurance",
+        "canonical_term": "Co-Insurance"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "speech therapy visit",
+        "cluster": ["6.1"]
+      }
+    ],
+    "EB06": [
+      {
+        "text": "once coinsurance kicks in",
+        "cluster": ["5"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": ["session"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m trying to understand my plan better, what’s my individual deductible for this year?
+Query ID: 2025-12-17-31587
+Response Time: 11.976271390914917
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB06"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB06": [
+      { "text": "this year", "cluster": "2" }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  We’re planning some medical appointments this year, how much more could our family potentially owe before insurance steps in fully?
+Query ID: 2025-12-17-31588
+Response Time: 11.714361429214478
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB06"],
+  "phrases": {
+    "EB01": [
+      { "text": "deductible", "canonical_term": "Deductible" }
+    ],
+    "EB02": [
+      { "text": "family", "cluster": "2" }
+    ],
+    "EB06": [
+      { "text": "this year", "cluster": "2" }
+    ]
+  },
+  "unmapped_medical_terms": ["medical appointments"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  Just for myself not the whole family, how high can my medical bills go before I reach the limit?
+Query ID: 2025-12-17-31591
+Response Time: 22.496137380599976
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB06"],
+  "phrases": {
+    "EB02": [
+      { "text": "just for myself", "cluster": "1" },
+      { "text": "whole family", "cluster": "2" }
+    ],
+    "EB06": [
+      { "text": "limit", "cluster": "5" }
+    ]
+  },
+  "unmapped_medical_terms": ["medical bills"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’ve paid only for couple of appointment, how much is still left to pay before I hit my out-of-pocket limit?
+Query ID: 2025-12-17-31593
+Response Time: 16.90440273284912
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB06"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "out-of-pocket limit",
+        "canonical_term": "Limitations & Out of Pocket Limit/Maximum"
+      }
+    ],
+    "EB06": [
+      {
+        "text": "still left to pay",
+        "cluster": "5"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  My specialist wants to put me on a specialty drug. Does this plan let me pick it up anywhere, or do I have to use mail order?
+Query ID: 2025-12-17-31595
+Response Time: 23.970775365829468
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB03"],
+  "phrases": {
+    "EB02": [
+      {
+        "text": "my",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "specialty drug",
+        "cluster": ["8.1"]
+      },
+      {
+        "text": "mail order",
+        "cluster": ["8.3"]
+      },
+      {
+        "text": "plan",
+        "cluster": ["26"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I end up in the ER and they do X-rays, labs, and a doctor evaluation, does all of that fall under the free coverage?
+Query ID: 2025-12-17-31596
+Response Time: 18.235929489135742
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "free coverage",
+        "canonical_term": "Covered"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "i",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "emergency room services",
+        "cluster": ["3", "2.4"]
+      },
+      {
+        "text": "x-rays",
+        "cluster": ["4.1"]
+      },
+      {
+        "text": "labs",
+        "cluster": ["4.2"]
+      },
+      {
+        "text": "doctor evaluation",
+        "cluster": ["1.2"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m confused, does my plan cover speech therapy for my family, or just for me?
+Query ID: 2025-12-17-31599
+Response Time: 21.99535846710205
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      { "text": "covers", "canonical_term": "Covered" }
+    ],
+    "EB02": [
+      { "text": "my family", "cluster": "2" }
+    ],
+    "EB03": [
+      { "text": "speech therapy", "cluster": ["6.1"] },
+      { "text": "plan", "cluster": ["26"] }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I need speech therapy urgently, would my insurance take care of any of the cost at out network providers?
+Query ID: 2025-12-17-31601
+Response Time: 21.23318648338318
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB02": [
+      { "text": "my", "cluster": "1" }
+    ],
+    "EB03": [
+      { "text": "speech therapy", "cluster": ["6.1"] }
+    ],
+    "EB12": [
+      { "text": "out network providers", "canonical_term": "Out-Of-Plan-Network" }
+    ]
+  },
+  "unmapped_medical_terms": ["cost", "urgently"]
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If I accidentally see an out-of-network doctor, what deductible applies to me?
+Query ID: 2025-12-17-31602
+Response Time: 12.756192922592163
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB12"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "deductible",
+        "canonical_term": "Deductible"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "i",
+        "cluster": "1"
+      }
+    ],
+    "EB12": [
+      {
+        "text": "out-of-network doctor",
+        "canonical_term": "Out-Of-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  What is my coinsurance for xray?
+Query ID: 2025-12-17-31604
+Response Time: 13.509450912475586
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB03"],
+  "phrases": {
+    "EB01": [
+      {
+        "text": "coinsurance",
+        "canonical_term": "Co-Insurance"
+      }
+    ],
+    "EB02": [
+      {
+        "text": "my",
+        "cluster": "1"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "xray",
+        "cluster": ["4.1"]
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  If we’re traveling and we land in a non-network ER for a medical issue, what does the plan consider us?
+Query ID: 2025-12-17-31607
+Response Time: 17.74665093421936
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB02", "EB03", "EB12"],
+  "phrases": {
+    "EB02": [
+      {
+        "text": "we",
+        "cluster": "2"
+      }
+    ],
+    "EB03": [
+      {
+        "text": "er",
+        "cluster": ["3", "2.4"]
+      }
+    ],
+    "EB12": [
+      {
+        "text": "non-network er",
+        "canonical_term": "Out-Of-Plan-Network"
+      }
+    ]
+  },
+  "unmapped_medical_terms": []
+}
+```
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Question:  I’m worried about expenses piling up, what’s the ceiling on what our whole family needs to pay this year?
+Query ID: 2025-12-17-31609
+Response Time: 20.425061225891113
+
+Generated Text:
+```json
+{
+  "eb_codes": ["EB01", "EB02", "EB06"],
+  "phrases": {
+    "EB02": [
+      {
+        "text": "our whole family",
+        "cluster": "2"
+      }
+    ],
+    "EB06": [
+      {
+        "text": "this year",
+        "cluster": "2"
+      }
+    ]
+  },
+  "unmapped_medical_terms": ["ceiling"]
+}
+```
+
+--------------------------------------------------------------------------------
+Saved to outputs/llm_response.xlsx

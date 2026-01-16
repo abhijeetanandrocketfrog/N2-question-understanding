@@ -1,0 +1,10 @@
+api:
+  api_key: "m8K4sp9xQ2vF7tPeYt6HtR1uD5iC8wXn"
+  api_url: "http://10.0.2.47:8001/generate"
+  log_url: "http://10.0.2.47:8001/request_log"
+
+model:
+  reasoning: "low"
+  max_new_tokens: 8192
+  temperature: 0.1
+  repetition_penalty: 1.1
