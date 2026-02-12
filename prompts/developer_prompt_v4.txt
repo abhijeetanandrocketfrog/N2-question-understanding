@@ -290,6 +290,7 @@ Return your answer only as a JSON object in the following structure:
   },
   "unmapped_medical_terms": ["unmapped_term_1", "unmapped_term_2", "unmapped_term_3"]
 }
+NOTE: The above structure is only an example to illustrate formatting. The number of 'eb_codes', phrases per EB code, and 'unmapped_medical_terms' may vary depending on the question, and any of these lists may be empty as well.
 
 If no EB codes or phrases are found:
 
